@@ -1,0 +1,59 @@
+@model PracticaLab1Form.Models.Persona; 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Calculemos la edad de la persona ingresada</h1>
+<h1>Cambios para el commit</h1>
+<h1>Cambios para el commit2</h1>
+    <form asp-controller="ControllerForm" asp-action="CalcularEdad">
+
+   <div class="mb-3 row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Nombre</label>
+    <div class="col-sm-10">
+      <input asp-for="nombre" class="form-control" > </input>
+    </div>
+  </div>
+
+    <div class="mb-3 row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Apellido</label>
+    <div class="col-sm-10">
+      <input asp-for="apellido" class="form-control" > </input>
+    </div>
+  </div>
+
+  <div class="mb-3 row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Año de nacimiento</label>
+    <div class="col-sm-10">
+      <input asp-for="anioNacimiento" class="form-control" > </input>
+    </div>
+  </div>
+
+<div class="mb-3 row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Año actual</label>
+    <div class="col-sm-10">
+      <input asp-for="anioActual" class="form-control" > </input>
+    </div>
+  </div>
+
+
+
+    <button type="submit" class="btn btn-primary">Calcular Edad</button> 
+    
+</form>
+ <h2>@ViewData["Message1"]</h2>
+<h2>@ViewData["Message2"]</h2>
+
+
+
+
+
+</body>
+</html>
