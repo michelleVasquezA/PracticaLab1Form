@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Amazon.CDK.Lib": {
+              "target": "Package",
+              "version": "[2.63.2, )"
+            },
             "Microsoft.AspNetCore.Server.IISIntegration": {
               "target": "Package",
               "version": "[2.2.0, )"

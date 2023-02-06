@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaLab1Form
 build_property.RootNamespace = PracticaLab1Form
-build_property.ProjectDir = D:\MICHELLE\2022\CICLO VI\PROGRAMACION 1\TRABAJOS EN VISUAL STUDIO CODE\PracticaLab1Form\
+build_property.ProjectDir = d:\MICHELLE\2022\CICLO VI\PROGRAMACION 1\TRABAJOS EN VISUAL STUDIO CODE\PracticaLab1Form\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\MICHELLE\2022\CICLO VI\PROGRAMACION 1\TRABAJOS EN VISUAL STUDIO CODE\PracticaLab1Form
+build_property.MSBuildProjectDirectory = d:\MICHELLE\2022\CICLO VI\PROGRAMACION 1\TRABAJOS EN VISUAL STUDIO CODE\PracticaLab1Form
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/ControllerForm/VistaForm.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/ControllerForm/VistaForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbGxlckZvcm1cVmlzdGFGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Home/Index.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Home/Privacy.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/Error.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/_ViewImports.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/_ViewStart.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/_Layout.cshtml]
+[d:/MICHELLE/2022/CICLO VI/PROGRAMACION 1/TRABAJOS EN VISUAL STUDIO CODE/PracticaLab1Form/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t7fqml3h2a
