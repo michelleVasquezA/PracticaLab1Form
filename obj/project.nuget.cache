@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MmAJON1shHQf0LNWdFmDiyFd+CKJMAYCsViV/4NkpdxYwymwdR4wunuMI+WwzyPagHrWy2eAqgdmBOXeSC02YQ==",
+  "dgSpecHash": "NLp07scdPbmdxUadDBNa32rVP2gVZweSdqnJ1ZeLoxbJFqCEEuj+rhYnnpGWWT3x4wwxQwq+RoPBxIg9IiHO4A==",
   "success": true,
-  "projectFilePath": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
+  "projectFilePath": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

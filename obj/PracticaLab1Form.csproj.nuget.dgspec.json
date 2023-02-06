@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj": {}
+    "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj": {}
   },
   "projects": {
-    "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj": {
+    "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
+        "projectUniqueName": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
         "projectName": "PracticaLab1Form",
-        "projectPath": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
+        "projectPath": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\PracticaLab1Form.csproj",
         "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-        "outputPath": "d:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\obj\\",
+        "outputPath": "D:\\MICHELLE\\2022\\CICLO VI\\PROGRAMACION 1\\TRABAJOS EN VISUAL STUDIO CODE\\PracticaLab1Form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
